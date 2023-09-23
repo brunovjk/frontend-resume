@@ -1,0 +1,171 @@
+{
+  "tasks": [
+    {
+      "title": "Task 1: HTML/CSS #fundamentals",
+      "list": [
+        { "name": "Learn Basic HTML", "checked": true },
+        { "name": "Learn HTML5", "checked": true },
+        { "name": "Learn Basic CSS", "checked": true },
+        { "name": "Learn CSS3", "checked": true }
+      ]
+    },
+    {
+      "title": "Task 2: JavaScript #javascript",
+      "list": [
+        { "name": "Basic JavaScript", "checked": true },
+        { "name": "ES6", "checked": true },
+        { "name": "Regular Expressions", "checked": true },
+        { "name": "Debugging", "checked": true },
+        { "name": "Data Structures", "checked": true },
+        { "name": "Algorithm Scripting", "checked": true },
+        { "name": "Object Oriented Programming", "checked": true },
+        { "name": "Functional Programming", "checked": true }
+      ]
+    },
+    {
+      "title": "Task 3: Libraries and Frameworks #libraries",
+      "list": [
+        { "name": "jQuery", "checked": true },
+        { "name": "SASS", "checked": true },
+        { "name": "React", "checked": true },
+        { "name": "Redux", "checked": true },
+        { "name": "Angular", "checked": false },
+        { "name": "Vue.js", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 4: Version Control #versioncontrol",
+      "list": [
+        { "name": "Git", "checked": true },
+        { "name": "GitHub", "checked": true }
+      ]
+    },
+    {
+      "title": "Task 5: Testing and Debugging #testing",
+      "list": [
+        { "name": "Jest", "checked": false },
+        { "name": "Mocha", "checked": true },
+        { "name": "Jasmine", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 6: Package Managers #packagemanagers",
+      "list": [
+        { "name": "NPM", "checked": true },
+        { "name": "Yarn", "checked": true }
+      ]
+    },
+    {
+      "title": "Task 7: Build Tools #buildtools",
+      "list": [
+        { "name": "Webpack", "checked": true },
+        { "name": "Babel", "checked": true },
+        { "name": "Gulp", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 8: Browser Developer Tools #browsertools",
+      "list": [
+        { "name": "Chrome Dev Tools", "checked": true },
+        { "name": "Firefox Developer Edition", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 9: Web Security Knowledge #websecurity",
+      "list": [
+        { "name": "HTTPS and Content Security Policy", "checked": true },
+        { "name": "CORS", "checked": false },
+        { "name": "OWASP Security Risks", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 10: Performant Web Apps #performance",
+      "list": [
+        { "name": "PRPL Pattern", "checked": false },
+        { "name": "RAIL Model", "checked": false },
+        { "name": "Service Workers", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 11: TypeScript #typescript",
+      "list": [
+        { "name": "Basic TypeScript", "checked": true },
+        { "name": "Advanced TypeScript", "checked": true }
+      ]
+    },
+    {
+      "title": "Task 12: Server Side Rendering #serverside",
+      "list": [
+        { "name": "React", "checked": true },
+        { "name": "Angular", "checked": false },
+        { "name": "Vue.js", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 13: GraphQL #graphql",
+      "list": [
+        { "name": "Basic GraphQL", "checked": true },
+        { "name": "Advanced GraphQL", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 14: Static Site Generators #staticsite",
+      "list": [
+        { "name": "Jekyll", "checked": false },
+        { "name": "Hugo", "checked": false },
+        { "name": "Gatsby", "checked": true }
+      ]
+    },
+    {
+      "title": "Task 15: Mobile Application Development #mobiledev",
+      "list": [
+        { "name": "React Native", "checked": true },
+        { "name": "Flutter", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 16: Progressive Web Apps #pwa",
+      "list": [
+        { "name": "Basic PWA", "checked": true },
+        { "name": "Advanced PWA", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 17: Web Assembly #webassembly",
+      "list": [
+        { "name": "Basic Web Assembly", "checked": true },
+        { "name": "Advanced Web Assembly", "checked": false }
+      ]
+    },
+    {
+      "title": "Task 18: Keep Learning and Updating Skills #continuouslearning",
+      "list": [
+        { "name": "Keep up with new technologies and tools", "checked": true },
+        { "name": "Participate in coding challenges", "checked": true },
+        { "name": "Contribute to open source projects", "checked": true },
+        { "name": "Attend meetups and conferences", "checked": true }
+      ]
+    },
+    {
+      "title": "Resources #resources",
+      "list": [
+        { "name": "Online Courses", "checked": true },
+        { "name": "Books", "checked": true },
+        { "name": "Blogs", "checked": true },
+        { "name": "Podcasts", "checked": true },
+        { "name": "YouTube Channels", "checked": true },
+        { "name": "Hackathons", "checked": true }
+      ]
+    },
+    {
+      "title": "Portfolio #portfolio",
+      "list": [
+        { "name": "Build personal projects", "checked": true },
+        { "name": "Contribute to open source projects", "checked": true },
+        { "name": "Share code on GitHub", "checked": true },
+        { "name": "Create a personal website", "checked": true },
+        { "name": "Write technical blog posts", "checked": false }
+      ]
+    }
+  ]
+}

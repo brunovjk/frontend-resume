@@ -3,7 +3,7 @@
     {
       "title": "Task 1: HTML/CSS #fundamentals",
       "list": [
-        { "name": "Learn Basic HTML", "checked": true },
+        { "name": "Learn Basic HTML", "checked": false },
         { "name": "Learn HTML5", "checked": true },
         { "name": "Learn Basic CSS", "checked": true },
         { "name": "Learn CSS3", "checked": true }

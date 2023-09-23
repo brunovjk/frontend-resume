@@ -1,24 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Button, Container } from "@mui/material";
+import PdfLayout from "./components/pdf-layout";
 
 function App() {
+  const handleDownloadPDF = () => {
+    // You can implement the PDF generation and download logic here
+    // Once you have the PDF ready, trigger the download
+    // Example: window.open('path_to_generated_pdf.pdf', '_blank');
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container
+      disableGutters
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        minHeight: "100vh",
+        padding: "20px",
+      }}
+    >
+      {/* Render the PdfLayout component */}
+      <PdfLayout />
+      <Button
+        variant="contained"
+        color="primary"
+        style={{ margin: "20px" }}
+        onClick={handleDownloadPDF}
+      >
+        Download PDF
+      </Button>
+    </Container>
   );
 }
 
